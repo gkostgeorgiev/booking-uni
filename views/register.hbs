@@ -1,0 +1,8 @@
+<h1>Register Page</h1>
+{{!-- THE FORM MUST HAVE AN ACTION FIELD (and method field="post") THAT REFERS THE USER TO THE CORRECT PATH, E.G. /AUTH/REGISTER  --}}
+<form method="post" action="/auth/register" >
+    <label> Username <input type="text" name="username" value="{{body.username}}"> </label>
+    <label> Password <input type="password" name="password"> </label>
+    <label> Repass: <input type="password" name="repass"> </label>
+    <button>Register</button>
+</form>
