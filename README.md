@@ -1,0 +1,8 @@
+# booking-uni
+Express.js exam preparation 1
+
+This project has been developed as a prepartion for the SoftUni express.js + node.js exam for the JavaScript back-end module in the Sep-Oct 22 back-end course.
+
+The objectives can be found in the examRequirements.docx.
+
+The initial resources provided by SoftUni can be found in the initial-resources folder.
